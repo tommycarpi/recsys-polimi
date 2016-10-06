@@ -2,7 +2,7 @@
 This repository contains all the code used for our Master Thesis @ Politecnico of Milano <br>
 Collaborators for this project are: <br>
 - [Tommaso Carpi](https://github.com/tommycarpi)
-- Marco Edemanti
+- [Marco Edemanti](https://github.com/marcoede)
 - Elena Sacchi
 - Ervin Kamberoski
 
