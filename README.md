@@ -7,8 +7,8 @@ Collaborators for this project are: <br>
 - Ervin Kamberoski
 
 <br>
-There 2 thesis works here
-1. Related to the ensemble techniques
+There 2 thesis works here: <br>
+1. Related to the ensemble techniques <br>
 2. Related to basic learners for `content-based` and `collaborative filtering`techniques
 
 # Dataset
