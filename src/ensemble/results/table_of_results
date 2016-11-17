@@ -25,7 +25,7 @@ Layer 2
 
 52317 - linear2__1.1_1.1
 51974 - linear2__1.2_1.1
-52172 - linear2__1.15_1.1
+52472 - linear2__1.15_1.1
 51539 - linear2__1.1_1.15
 52162 - linear2__1.2_1.3
 51974 - linear2__1.2_1.4
@@ -49,3 +49,4 @@ COMPARISON OTHER TECHNIQUES
 139425 - Weighted Voting
 155880 - Pure Evaluation Score
 158231 - Pure Linear
+113649 - Rank Averaging
